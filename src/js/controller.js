@@ -113,6 +113,7 @@ function init() {
   searchView.addHandlerRender(controlSearchResults);
   paginationView.addHandlerRender(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
+  console.log('hi');
 }
 
 init();
