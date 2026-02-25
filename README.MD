@@ -1,4 +1,4 @@
 # Forkify App
 
-Constructor - Jonas
-student - Gagan
+Constructor - Jonas;
+student - Gagan;
