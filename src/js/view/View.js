@@ -66,7 +66,7 @@ export default class View {
     this._parentElement.innerHTML = `
         <div class="spinner">
         <svg>
-        <use href="${icons}#icon-loader"></use>
+        <use href="../../../public/icons.svg#icon-loader"></use>
         </svg>
         </div>
         `;
