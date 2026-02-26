@@ -11,8 +11,9 @@
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-beta.1",
-    "sass": "^1.26.10"
+    "@parcel/transformer-raw": "^2.16.4",
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.0.0-beta.1"
   },
   "dependencies": {
     "core-js": "^3.48.0",
