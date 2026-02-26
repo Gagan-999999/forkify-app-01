@@ -8,7 +8,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir dist --no-optimize"
+    "build": "parcel build index.html --dist-dir dist ./"
   },
   "devDependencies": {
     "@parcel/transformer-raw": "^2.16.4",
