@@ -13,7 +13,10 @@
   "dependencies": {
     "core-js": "^3.48.0",
     "fraction.js": "^5.3.4",
-    "parcel": "^2.16.4",
     "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
   }
 }
